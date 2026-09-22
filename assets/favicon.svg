@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160" role="img" aria-label="SyntenIA">
+    <rect width="160" height="160" rx="32" fill="#0B3C5D"/><g transform="translate(16,16) scale(0.8)">
+    <circle cx="80" cy="80" r="76" fill="none" stroke="none" stroke-width="4"/>
+    <path d="M42 30 C 42 70, 118 90, 118 130" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+    <path d="M118 30 C 118 70, 42 90, 42 130" fill="none" stroke="#5FD0DC" stroke-width="10" stroke-linecap="round"/>
+    <g fill="#FFFFFF"><circle cx="42" cy="30" r="8"/><circle cx="118" cy="130" r="8"/></g>
+    <g fill="#5FD0DC"><circle cx="118" cy="30" r="8"/><circle cx="42" cy="130" r="8"/></g>
+    <circle cx="80" cy="80" r="9" fill="#F2A900"/>
+</g></svg>
